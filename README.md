@@ -1,4 +1,4 @@
-# DataScience-Beginner
+# Object Detection VGG16 Weights
 This model is using VGG16 to detect the image.
 
 # Download Weights 
